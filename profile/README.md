@@ -7,6 +7,7 @@ our goal is to make running roblox on linux easier, with better compatibility, p
 ### projects
 
 - [cider](https://github.com/CiderHQ-org/Cider) - run the macos roblox client on linux.
+- [ciderdarling](https://github.com/CiderHQ-org/CiderDarling) - darling fork for cider, you can probably daily drive this
 
 ### get started
 
