@@ -1,27 +1,27 @@
-# ciderhq
+# QuadraHQ
 
-we're a small team working on cider, an open-source project that brings the macos roblox client to linux through darling.
+we're a small team working on Quadra, an open-source project that brings the macos roblox client to linux through darling or rosemary.
 
 our goal is to make running roblox on linux easier, with better compatibility, performance, and stability.
 
 ### projects
 
-- [cider](https://github.com/CiderHQ-org/Cider) - run the macos roblox client on linux.
-- [ciderdarling](https://github.com/CiderHQ-org/CiderDarling) - darling fork for cider, you can probably daily drive this
+- [cider](https://github.com/QuadraHQ/Cider) - run the macos roblox client on linux.
+- [ciderdarling](https://github.com/QuadraHQ/CiderDarling) - darling fork for Quadra, you can probably daily drive this
 
 ### get started
 
 install cider using:
 
 ```bash
-curl -fsSL https://ciderhq.org/install.sh | bash
+curl -fsSL https://quadrahq.org/install.sh | bash
 ```
 
 ### links
 
-- [website](https://ciderhq.org)
-- [source code](https://github.com/CiderHQ-org/Cider)
-- [report an issue](https://github.com/CiderHQ-org/Cider/issues)
+- [website](https://quadrahq.org)
+- [source code](https://github.com/QuadraHQ/Cider)
+- [report an issue](https://github.com/QuadraHQ/Quadra/issues)
 
 ### contributing
 
@@ -29,4 +29,4 @@ contributions, bug reports, and suggestions are welcome. feel free to open an is
 
 ---
 
-cider is an independent open-source project and is not affiliated with roblox corporation.
+quadra is an independent open-source project and is not affiliated with roblox corporation.
